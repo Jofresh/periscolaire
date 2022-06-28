@@ -8,9 +8,9 @@
 ## 💬 What is it ?
 The aim of this project is to manage activities created by the town hall. A parent registers his children for avalaible activities.
 
-## ⚡ Technologies
+## ⚡ Stacks
 ### Server
-Created an API in **Java** (Maven) with the following technologies :
+Created an API in **Java** (Maven) with the following stacks :
 - Spring Boot
 - **ORM:** JPA Hibernate
 - **Database:** MySQL
